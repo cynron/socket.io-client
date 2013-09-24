@@ -8,6 +8,8 @@
     "component/bind": "0.0.1",
     "component/url": "0.1.0",
     "component/json-fallback": "*",
+    "component/bind": "*",
+    "component/object": "*",
     "timoxley/to-array": "0.1.4",
     "visionmedia/debug": "*"
   },
