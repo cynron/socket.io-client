@@ -2,8 +2,8 @@
   "name": "socket.io",
   "version": "1.0.0",
   "dependencies": {
-    "learnboost/engine.io-client": "0.4.0",
-    "learnboost/socket.io-protocol": "1.0.2",
+    "learnboost/engine.io-client": "*",
+    "learnboost/socket.io-protocol": "*",
     "component/emitter": "0.0.6",
     "component/bind": "0.0.1",
     "component/url": "0.1.0",
